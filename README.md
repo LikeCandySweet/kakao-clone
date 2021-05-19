@@ -1,3 +1,3 @@
 # Kakao Clone Update
 
-Only html, css!
+Only HTML, CSS!
